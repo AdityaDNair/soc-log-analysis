@@ -55,4 +55,7 @@ Such patterns are commonly associated with:
 - Unauthorized access attempts
 - Reconnaissance activity
 
-![Suspicious IP and Brute Force Analysis]()
+![Suspicious IP and Brute Force Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/brute-force-pattern.png?raw=true)
+
+
+

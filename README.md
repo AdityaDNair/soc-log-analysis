@@ -58,4 +58,20 @@ Such patterns are commonly associated with:
 ![Suspicious IP and Brute Force Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/brute-force-pattern.png?raw=true)
 
 
+## Log Filtering & Investigation Techniques
+Log filtering techniques were applied to isolate suspicious authentication events and improve investigation efficiency.
+The logs were filtered based on:
+- Failed password attempts
+- Source IP addresses
+- Privileged account targeting (`root`)
+- Authentication-related events
+  
+Filtering suspicious entries helped identify:
+- Repeated failed login attempts
+- Brute-force behavior
+- Suspicious source IP activity
+- Privileged account targeting patterns
 
+This process demonstrates basic SOC investigation and event correlation techniques commonly used in security monitoring environments.
+
+![Log Filtering]()

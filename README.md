@@ -77,4 +77,40 @@ This process demonstrates basic SOC investigation and event correlation techniqu
 ![Log Filtering](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/log-filtering.png?raw=true)
 
 
+## Key Learnings
+
+- Understood the structure of Linux authentication logs
+- Identified failed login attempts and suspicious authentication activity
+- Detected brute-force behavior through repeated failed logins
+- Investigated suspicious IP addresses targeting privileged accounts
+- Applied basic log filtering and investigation techniques
+- Explored SOC-style event monitoring and analysis concepts
+
+
+## Conclusion
+
+This project provided practical exposure to SOC-focused log analysis and authentication monitoring using Linux authentication logs.
+
+The analysis involved identifying failed login attempts, investigating suspicious IP addresses, detecting brute-force patterns, and applying basic log filtering techniques. Multiple indicators of suspicious authentication behavior were observed, including repeated failed logins targeting privileged accounts such as `root`.
+
+Through this project, foundational cybersecurity concepts related to security monitoring, incident investigation, and threat detection were explored in a hands-on manner. The skills developed are directly relevant to SOC analyst and cybersecurity monitoring roles.
+
+
+## Repository Structure
+
+soc-log-analysis/
+│
+├── README.md
+│
+├── logs/
+│   └── auth.log
+│
+├── screenshots/
+│   ├── failed-logins.png
+│   ├── suspicious-ip-analysis.png
+│   ├── brute-force-pattern.png
+│   └── log-filtering.png
+│
+└── report/
+    └── soc_log_analysis_report.pdf
 

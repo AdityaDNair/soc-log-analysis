@@ -11,7 +11,7 @@ Repeated failures occurring within short time intervals may indicate:
 The IP address `203.0.113.45` demonstrated repeated failed login attempts targeting the root account, making it highly suspicious.
 
 
-![Failed Logins]()
+![Failed Logins](https://github.com/AdityaDNair/soc-log-analysis/blob/main/screenshots/failed-logins.png?raw=true)
 
 ## Suspicious IP Analysis
 Authentication logs were reviewed to identify IP addresses associated with suspicious activity.
@@ -26,7 +26,7 @@ Indicators suggesting suspicious behavior included:
 - Rapid login attempts from the same source IP
 This type of activity is commonly associated with brute-force attacks and unauthorized access attempts.
 
-![Suspicious IP Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/suspicious-ip-analysis.png?raw=true)
+![Suspicious IP Analysis]()
 
 
 ## Suspicious IP & Brute Force Analysis

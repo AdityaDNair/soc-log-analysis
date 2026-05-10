@@ -10,4 +10,4 @@ Repeated failures occurring within short time intervals may indicate:
 - Credential guessing activity
 The IP address `203.0.113.45` demonstrated repeated failed login attempts targeting the root account, making it highly suspicious.
 
-![Failed Logins]()
+![Failed Logins](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/failed-logins.png?raw=true)

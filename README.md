@@ -26,7 +26,7 @@ Indicators suggesting suspicious behavior included:
 - Rapid login attempts from the same source IP
 This type of activity is commonly associated with brute-force attacks and unauthorized access attempts.
 
-![Suspicious IP Analysis]()
+![Suspicious IP Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/screenshots/suspicious-ip-analysis.png?raw=true)
 
 
 ## Suspicious IP & Brute Force Analysis
@@ -55,7 +55,7 @@ Such patterns are commonly associated with:
 - Unauthorized access attempts
 - Reconnaissance activity
 
-![Suspicious IP and Brute Force Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/brute-force-pattern.png?raw=true)
+![Suspicious IP and Brute Force Analysis]()
 
 
 ## Log Filtering & Investigation Techniques

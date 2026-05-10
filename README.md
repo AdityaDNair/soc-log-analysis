@@ -55,7 +55,7 @@ Such patterns are commonly associated with:
 - Unauthorized access attempts
 - Reconnaissance activity
 
-![Suspicious IP and Brute Force Analysis]()
+![Suspicious IP and Brute Force Analysis](https://github.com/AdityaDNair/soc-log-analysis/blob/main/screenshots/brute-force-pattern.png?raw=true)
 
 
 ## Log Filtering & Investigation Techniques
@@ -74,7 +74,7 @@ Filtering suspicious entries helped identify:
 
 This process demonstrates basic SOC investigation and event correlation techniques commonly used in security monitoring environments.
 
-![Log Filtering](https://github.com/AdityaDNair/soc-log-analysis/blob/main/logs/log-filtering.png?raw=true)
+![Log Filtering]()
 
 
 ## Key Learnings

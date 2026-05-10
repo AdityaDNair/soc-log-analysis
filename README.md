@@ -74,7 +74,7 @@ Filtering suspicious entries helped identify:
 
 This process demonstrates basic SOC investigation and event correlation techniques commonly used in security monitoring environments.
 
-![Log Filtering]()
+![Log Filtering](https://github.com/AdityaDNair/soc-log-analysis/blob/main/screenshots/log-filtering.png?raw=true)
 
 
 ## Key Learnings
